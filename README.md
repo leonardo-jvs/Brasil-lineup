@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🇧🇷 Minha Seleção — Copa do Mundo 2026
 
 Monte sua convocação e escalação da Seleção Brasileira para a Copa do Mundo 2026.
@@ -112,3 +113,6 @@ src/
 - [ ] Ranking dos jogadores mais convocados pelos fãs
 - [ ] Comparar com a escalação oficial do técnico
 - [ ] Modo personalizar com drag & drop livre
+=======
+# Brasil-lineup
+>>>>>>> b86d27a4dfbfc1d06eec8eccd9863cb1285f8aac
