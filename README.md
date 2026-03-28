@@ -2,6 +2,10 @@
 
 Monte sua convocação e escalação da Seleção Brasileira para a Copa do Mundo 2026.
 
+## 📸 Preview
+
+![Preview do projeto](./preview.gif)
+
 ## Funcionalidades
 
 - ✅ Convocação de 26 jogadores com busca por nome
